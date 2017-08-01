@@ -1,16 +1,26 @@
-### 前面笔试面试简答题汇总
+### 前端笔试面试简答题汇总
 
-#####1.引起内存泄漏的操作有哪些
+##### 1.引起内存泄漏的操作有哪些
 1.全局变量引起
+
 2.闭包引起
+
 3.dom清空，事件未清除
+
 4.子元素存在引用
+
 5.被遗忘的计时器
+
 参考：
+
 [【译】JavaScript 内存泄漏问题](http://octman.com/blog/2016-06-28-four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
+
 [JavaScript 常见的内存泄漏原因](https://juejin.im/entry/58158abaa0bb9f005873a843)
 
-#####2.如何实现ajax请求
+
+
+##### 2.如何实现ajax请求
+
 1.通过实例化一个XMLHttpRequest对象得到一个实例，调用实例的open方法为这次
 ajax请求设定相应的http方法、相应的地址和以及是否异步，当然大多数情况下我们都是选异步，
 以异步为例，之后调用send方法ajax请求，这个方法可以设定需要发送的报文主体，然后通过
@@ -28,12 +38,16 @@ xhr.onreadystatechange = function() {
   }
 }
 ```
-#####3.水平居中的方法
+##### 3.水平居中的方法
 1.元素为行内元素，设置父元素text-align:center
+
 2.如果元素宽度固定，可以设置左右margin为auto;
+
 3.如果元素为绝对定位，设置父元素position为relative，元素设left:0;right:0;margin:auto;
+
 4.使用flex-box布局，指定justify-content属性为center
+
 5.display设置为tabel-ceil
 
-#####4.垂直居中的方法
+##### 4.垂直居中的方法
 
