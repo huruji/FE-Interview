@@ -233,7 +233,17 @@ ComponentDidUpdate三个生命周期函数，依次代表着组件将要更新�
 进入生命周期函数ComponentWillUnmount，之后才进行卸载。如下图：
 ![](./image/react1.png)
 
-## Angular
+### 3.简要介绍一下React中的refs以及它的作用
+
+### 4.简要介绍一下key以及它的作用
+
+### 5.在实际开发中shouldComponentUpdate有什么作用
+
+### 6.简要介绍一下Redux
+
+### 7.setState的第二个参数是什么，作用又是什么？
+
+## AngularJS
 ### 1.依赖注入的原理
 
 ## Vue
