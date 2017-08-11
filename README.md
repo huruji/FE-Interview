@@ -87,6 +87,18 @@ CommonJS的原因在于服务端所有的模块都是存在于硬盘中的，加
 
 ## HTML(5)
 ### 1.viewport的常见设置有哪些
+viewport常常使用在响应式开发以及移动web开发中，viewport顾名思义就是用来设置视口，主要是规定视口的宽度、视口的初始缩放值、
+视口的最小缩放值、视口的最大缩放值、是否允许用户缩放等。一个常见的viewport设置如下：
+```html
+<meta name="viewport"  content="initial-scale=1,maximum-scale=1,user-scalable=no,width=device-width" />
+```
+其中同时设置width和initial-scale的目的是为了解决iphone、ipad、ie横竖屏不分的情况，因为这两个值同时存在时会取较大值。
+
+参考：
+
+[移动前端开发之viewport的深入理解](https://www.cnblogs.com/2050/p/3877280.html)
+
+[在移动浏览器中使用viewport元标签控制布局](https://developer.mozilla.org/zh-CN/docs/Mobile/Viewport_meta_tag)
 
 ### 2.简要介绍HTML5的新特性
 首先HTML5为了更好的实践Web语义化，增加了header、footer、nav、aside、article、section等语义化标签。
