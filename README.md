@@ -339,7 +339,9 @@ service作为参数使用。实现一个简答的依赖注入需要一个注册�
 压缩的话，这些参数会被一些简单的字母代替，也就意味着失效，angularjs的解决方式使用数组作为参数，数组最后一个就是依赖注入的函数
 ，当然这得保持依赖的顺序。
 
+参考：
 
+[AngularJs依赖注入的研究](http://www.alloyteam.com/2015/09/angularjs-study-of-dependency-injection/)
 ## Vue
 
 ## Web安全
