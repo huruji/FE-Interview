@@ -74,6 +74,9 @@ CommonJS的原因在于服务端所有的模块都是存在于硬盘中的，加
 
 4.返回新对象
 
+### 9.js如何判断网页中图片加载成功或者失败
+使用onload事件运行加载成功，使用onerror事件判断失败
+
 ## Node.js部分
 ### 1.Express中实现中间件的原理
 
@@ -323,6 +326,7 @@ ComponentDidUpdate三个生命周期函数，依次代表着组件将要更新�
 ### 3.简要介绍一下React中的refs以及它的作用
 
 ### 4.简要介绍一下key以及它的作用
+在react中我们使用
 
 ### 5.在实际开发中shouldComponentUpdate有什么作用
 
