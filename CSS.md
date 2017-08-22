@@ -45,5 +45,15 @@
 ### 6.简要介绍一下CSS3的新特性
 
 ### 7.如何使用CSS实现硬件加速？
+硬件加速是指通过创建独立的复合图层，让GPU来渲染这个图层，从而提高性能，
+一般触发硬件加速的CSS属性有transform、opacity、filter，为了避免2D动画在
+开始和结束的时候的repaint操作，一般使用tranform:translateZ(0)
 
+参考：
+
+[CSS动画原理及硬件加速](http://www.cnblogs.com/shytong/p/5419565.html)
+
+[CSS动画之硬件加速](https://www.w3cplus.com/css3/introduction-to-hardware-acceleration-css-animations.html)
+
+[CSS3硬件加速也有坑！！！](https://div.io/topic/1348)
 ### 8.重绘和重流是什么，如何避免？
