@@ -89,6 +89,22 @@ CommonJS的原因在于服务端所有的模块都是存在于硬盘中的，加
 [「递归」和「迭代」有哪些区别？](https://www.zhihu.com/question/20278387)
 ### 11.策略模式是什么，说一下你的理解？
 
-### 12.什么是事件循环？
+### 12.什么是事件循环（EVENT LOOP）？
+我们常常说js是单线程的，是指js执行引擎是单线程的，除了这个单线程，还有一个
+任务队列，在执行js代码的过程中，执行引擎遇到注册的延时方法，如定时器，DOM事件，
+会将这些方法交给相应的浏览器模块处理，当这些延时方法有触发条件去触发的时候，
+这些延时方法会被添加至任务队列，而这些任务队列中的方法只有js的主线程空闲了才会执行，
+这也就是说我们常常用的定时器定的时间参数只是一个触发条件，具体多少时间后执行其实还需要看
+js主线程空闲与否
+
+参考：
+
+[【转向Javascript系列】从setTimeout说事件循环模型](http://www.alloyteam.com/2015/10/turning-to-javascript-series-from-settimeout-said-the-event-loop-model/)
+
+[深入浅出Javascript事件循环机制(上)](https://zhuanlan.zhihu.com/p/26229293)
+
+[深入浅出JavaScript事件循环机制(下)](https://zhuanlan.zhihu.com/p/26238030)
+
+[并发模型与事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
 
 ### 13.原生JS操作DOM的方法有哪些？
