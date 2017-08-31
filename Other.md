@@ -8,3 +8,5 @@
 ### 4.了解jsbridge吗？介绍一下？
 
 ### 5.git中的merge和rebase有什么区别？
+
+### 6.什么是restful API，如何设计一个增删查改的restful API？

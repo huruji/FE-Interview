@@ -172,3 +172,11 @@ typeof、instanceof 、 Object.prototype.toString()(待续)
 ### 22.addEventListener有哪些参数？
 
 ### 23.介绍一下Promise，底层如何实现？
+
+### 24.如何实现懒加载？
+
+### 25.函数节流是什么？
+
+### 26.浏览器内核有哪些？分别对应哪些浏览器？
+
+### 27.什么是深拷贝，什么是浅拷贝？
