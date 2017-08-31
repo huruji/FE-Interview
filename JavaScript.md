@@ -141,3 +141,21 @@ function type(ele) {
   }
 }
 ``` 
+
+### 16.javascript做类型判断的方法有哪些？
+typeof、instanceof 、 Object.prototype.toString()(待续)
+
+### 17.JavaScript严格模式下有哪些不同？
++ 不允许不使用var关键字去创建全局变量，抛出ReferenceError
++ 不允许对变量使用delete操作符，抛ReferenceError
++ 不可对对象的只读属性赋值，不可对对象的不可配置属性使用delete操作符，不可为不可拓展的对象添加属性，均抛TypeError
++ 对象属性名必须唯一
++ 函数中不可有重名参数
++ 在函数内部对修改参数不会反映到arguments中
++ 淘汰arguments.callee和arguments.caller
++ 不可在if内部声明函数
++ 抛弃with语句
+
+参考：
+
+1.[javascript高级程序设计](https://book.douban.com/subject/10546125/)
