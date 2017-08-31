@@ -108,3 +108,9 @@ js主线程空闲与否
 [并发模型与事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
 
 ### 13.原生JS操作DOM的方法有哪些？
+
+### 14.typeof操作符返回值有哪些，对undefined、null、NaN使用这个操作符分别返回什么
+typeof的返回值有undefined、boolean、string、number、object、function、symbol。对undefined
+使用返回undefined、null使用返回object，NaN使用返回number
+
+### 
