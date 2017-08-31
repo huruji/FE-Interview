@@ -6,3 +6,5 @@
 ### 3.git和svn的区别有哪些？
 
 ### 4.了解jsbridge吗？介绍一下？
+
+### 5.git中的merge和rebase有什么区别？

@@ -169,3 +169,6 @@ typeof、instanceof 、 Object.prototype.toString()(待续)
 
 ### 21.如何阻止事件冒泡和默认事件？
 
+### 22.addEventListener有哪些参数？
+
+### 23.介绍一下Promise，底层如何实现？
