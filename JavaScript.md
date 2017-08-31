@@ -159,3 +159,13 @@ typeof、instanceof 、 Object.prototype.toString()(待续)
 参考：
 
 1.[javascript高级程序设计](https://book.douban.com/subject/10546125/)
+
+
+### 18.setTimeout和setInterval的区别，包含内存方面的分析？
+
+### 19.同源策略是什么？
+
+### 20.ES6之前JavaScript如何实现继承？
+
+### 21.如何阻止事件冒泡和默认事件？
+
