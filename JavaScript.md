@@ -108,6 +108,10 @@ js主线程空闲与否
 [并发模型与事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
 
 ### 13.原生JS操作DOM的方法有哪些？
+获取节点的方法getElementById、getElementsByClassName、getElementsByTagName、
+getElementsByName、querySelector、querySelectorAll,对元素属性进行操作的 getAttribute、
+setAttribute、removeAttribute方法，对节点进行增删改的appendChild、insertBefore、replaceChild、removeChild、
+createElement等
 
 ### 14.typeof操作符返回值有哪些，对undefined、null、NaN使用这个操作符分别返回什么
 typeof的返回值有undefined、boolean、string、number、object、function、symbol。对undefined
