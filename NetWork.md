@@ -130,4 +130,15 @@ TCP面向连接的、提供可靠传输的协议，而UDP则是面向非连接�
 get用来请求数据，post用来提交数据，form表单使用get时，数据会以querystring形式存在url中，因而不够安全也存在数据大小限制，而post不会，post将数据
 存放在HTTP报文体中，获取数据应该使用get，提交数据应该使用post。
 
+**这个问题答案存疑，网上有很多种说法，但对于初级面试应该够了**
+
+参考：
+
+[get和post区别？](https://www.zhihu.com/question/28586791)
+
+[浅谈HTTP中Get与Post的区别](http://www.cnblogs.com/hyddd/archive/2009/03/31/1426026.html)
+
+[GET和POST有什么区别？及为什么网上的多数答案都是错的。](http://www.cnblogs.com/nankezhishi/archive/2012/06/09/getandpost.html)
+
+[也谈 GET 和 POST 的区别](http://www.cnblogs.com/ldp615/archive/2012/07/27/http-get-post.html)
 ### 19.什么是正向代理？什么是反向代理？
