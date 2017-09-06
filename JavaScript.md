@@ -197,3 +197,9 @@ typeof、instanceof 、 Object.prototype.toString()(待续)
 方法。截取类的方法有substring、slice、substr三个方法，其他的还有replace、split、toLowerCase、toUpperCase方法。
 
 ### 29.原生js字符串截取方法有哪些？有什么区别？
+js字符串截取方法有substring、slice、substr三个方法，substring和slice都是指定截取的首尾索引值，不同的是传递负值的时候
+substring会当做0来处理，而slice传入负值的规则是-1指最后一个字符，substr方法则是第一个参数是开始截取的字符串，第二个是截取的字符数量，
+和slice类似，传入负值也是从尾部算起的。
+
+
+
