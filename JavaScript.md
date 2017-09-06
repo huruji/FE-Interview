@@ -192,5 +192,8 @@ typeof、instanceof 、 Object.prototype.toString()(待续)
 ### 27.什么是深拷贝，什么是浅拷贝？
 
 ### 28.原生js字符串方法有哪些？
+简单分为获取类方法，获取类方法有charAt方法用来获取指定位置的字符，获取指定位置字符的unicode编码的charCodeAt方法，
+与之相反的fromCharCode方法，通过传入的unicode返回字符串。查找类方法有indexof()、lastIndexOf()、search()、match()
+方法。截取类的方法有substring、slice、substr三个方法，其他的还有replace、split、toLowerCase、toUpperCase方法。
 
 ### 29.原生js字符串截取方法有哪些？有什么区别？
