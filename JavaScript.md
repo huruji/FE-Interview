@@ -180,6 +180,7 @@ typeof、instanceof 、 Object.prototype.toString()(待续)
 ### 21.如何阻止事件冒泡和默认事件？
 
 ### 22.addEventListener有哪些参数？
+有三个参数，第一个是事件的类型，第二个是事件的回调函数，第三个是一个表示事件是冒泡阶段还是捕获阶段捕获的布尔值，true表示捕获，false表示冒泡
 
 ### 23.介绍一下Promise，底层如何实现？
 
