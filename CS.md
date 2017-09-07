@@ -13,3 +13,11 @@
 2.[什么是堆？什么是栈？他们之间有什么区别和联系？](https://www.zhihu.com/question/19729973)
 
 ### 3.进程和线程的区别？
+一个程序至少有一个进程，一个进程至少有一个线程，资源分配给进程，同一个进程下的所有线程共享该进程的所有资源。
+
+参考：
+[进程和线程有什么区别？](https://www.zhihu.com/question/21535820)
+
+[进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
+
+[进程和线程的区别](http://www.cnblogs.com/lmule/archive/2010/08/18/1802774.html)

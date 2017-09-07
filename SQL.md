@@ -10,3 +10,8 @@
 ### 4.sql查询app榜单中排名比昨天排名上升了的app，并按上升名次倒序排列
 
 ### 5.MySQL的引擎有哪些？
+ISAM、MyISAM、HEAP、InnoDB
+
+参考：
+
+[【整理】MySQL引擎](http://www.cnblogs.com/sopc-mc/archive/2011/11/01/2232212.html)
