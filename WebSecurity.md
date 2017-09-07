@@ -19,3 +19,7 @@ CSRF可以理解为攻击者盗用了用户的身份，以用户的名义发送�
 [浅谈CSRF攻击方式](http://www.cnblogs.com/hyddd/archive/2009/04/09/1432744.html)
 
 [白帽子讲WEB安全](https://book.douban.com/subject/10546925/)
+
+
+### 4.简要介绍一下DNS劫持？
+DNS劫持的话是指在用户请求过程的域名解析中，分析请求的域名，返回假的IP地址，使用户访问的是假的网址。
