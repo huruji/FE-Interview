@@ -211,5 +211,5 @@ js字符串截取方法有substring、slice、substr三个方法，substring和s
 substring会当做0来处理，而slice传入负值的规则是-1指最后一个字符，substr方法则是第一个参数是开始截取的字符串，第二个是截取的字符数量，
 和slice类似，传入负值也是从尾部算起的。
 
-
+### 30.SVG和Canvas的区别？
 
