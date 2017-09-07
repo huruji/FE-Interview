@@ -148,3 +148,9 @@ get用来请求数据，post用来提交数据，form表单使用get时，数据
 
 
 ### 21.和缓存有关的请求头有哪些？优先级是怎样的？
+和缓存有关的请求头有Cache-Control、If-Match、If-None-Match、If-Modified-Since、If-Unmodified-Since，在缓存中
+总体来说是Cache-Control优先于Expires，Cache-Control中会需要检测Cache-Control是否过期，过期的话检验会优先检测Etag，也就是If-Match、If-None-Match,不一致则
+验证Last-Modify请求头也就是If-Modified-Since、If-Unmodified-Since。
+
+
+
