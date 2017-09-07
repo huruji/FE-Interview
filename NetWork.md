@@ -142,3 +142,9 @@ get用来请求数据，post用来提交数据，form表单使用get时，数据
 
 [也谈 GET 和 POST 的区别](http://www.cnblogs.com/ldp615/archive/2012/07/27/http-get-post.html)
 ### 19.什么是正向代理？什么是反向代理？
+
+
+### 20.介绍一下HTTPS的连接过程
+
+
+### 21.和缓存有关的请求头有哪些？优先级是怎样的？

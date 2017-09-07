@@ -26,4 +26,10 @@ HTML5提供了sessionStorage、localStorage和离线存储作为新的存储方�
 确保web应用能够在离线情况下使用，通过在html标签中属性manifest来声明需要缓存的文件，这个属性的值是一个包含需要缓存的文件的文件名的文件，
 这个manifest文件声明的缓存文件可在初次加载后缓存在客户端，可以通过更新这个manifest文件来达到更新缓存文件的目的。
 
-### 4.
+### 4.块级元素和行内元素有哪些？
+块级元素有表示布局类的div、section、header、footer、aside、nav、article等，列表类ul li、ol之类的，form、p、table、标题h1~h6
+行内元素：a、span、button、input、select、textarea、i、em、strong
+
+参考：
+
+[前端入门培训（一）](http://www.jianshu.com/p/0122c846a0bd)
