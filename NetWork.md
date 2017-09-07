@@ -142,6 +142,10 @@ get用来请求数据，post用来提交数据，form表单使用get时，数据
 
 [也谈 GET 和 POST 的区别](http://www.cnblogs.com/ldp615/archive/2012/07/27/http-get-post.html)
 ### 19.什么是正向代理？什么是反向代理？
+正向代理就是客户端向代理服务器发送请求，并且指定目标服务器，之后代理向目标服务器转交并且将获得的内容返回给客户端。比如翻墙
+反向代理的话代理会判断请求走向何处，并将请求转交给客户端，客户端只会觉得这个代理是一个真正的服务器。如负载均衡。
+
+[正向代理和反向代理的区别](https://zhuanlan.zhihu.com/p/25423394)
 
 
 ### 20.介绍一下HTTPS的连接过程
@@ -149,8 +153,9 @@ get用来请求数据，post用来提交数据，form表单使用get时，数据
 
 ### 21.和缓存有关的请求头有哪些？优先级是怎样的？
 和缓存有关的请求头有Cache-Control、If-Match、If-None-Match、If-Modified-Since、If-Unmodified-Since，在缓存中
-总体来说是Cache-Control优先于Expires，Cache-Control中会需要检测Cache-Control是否过期，过期的话检验会优先检测Etag，也就是If-Match、If-None-Match,不一致则
-验证Last-Modify请求头也就是If-Modified-Since、If-Unmodified-Since。
+总体来说是Cache-Control优先于Expires，Cache-Control中会需要检测Cache-Control是否过期，过期的话检验会优先检测Etag，
+也就是If-Match、If-None-Match,不一致则验证Last-Modify请求头也就是If-Modified-Since、If-Unmodified-Since。
 
+参考：
 
-
+[HTTP缓存控制小结](http://www.imweb.io/topic/5795dcb6fb312541492eda8c)
