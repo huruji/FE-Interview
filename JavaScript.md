@@ -193,11 +193,18 @@ setTimeout表示间隔一段时间之后执行一次调用，而setInterval则�
 
 ### 23.介绍一下Promise，底层如何实现？
 
+
 ### 24.如何实现懒加载？
 
 ### 25.函数节流是什么？
+函数节流就是让一个函数无法在很短的时间间隔内连续调用，而是间隔一段时间执行，这在我们为元素绑定一些事件的时候经常会用到，比如我们
+为window绑定了一个resize事件，如果用户一直改变窗口大小，就会一直触发这个事件处理函数，这对性能有很大影响。
+
+[什么是函数节流？](http://www.alloyteam.com/2012/11/javascript-throttle/)
 
 ### 26.浏览器内核有哪些？分别对应哪些浏览器？
+常见的浏览器内核有Trident、Gecko、WebKit、Presto，对应的浏览器为Trident对应于IE，Gecko对应于火狐浏览器，Webkit有chrome和safari，Presto
+有Opera。
 
 ### 27.什么是深拷贝，什么是浅拷贝？
 
