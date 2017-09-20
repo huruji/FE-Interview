@@ -44,6 +44,7 @@
 
 ### 6.简要介绍一下CSS3的新特性
 
+
 ### 7.如何使用CSS实现硬件加速？
 硬件加速是指通过创建独立的复合图层，让GPU来渲染这个图层，从而提高性能，
 一般触发硬件加速的CSS属性有transform、opacity、filter，为了避免2D动画在
@@ -87,7 +88,16 @@ DOM的变化影响到了元素的几何属性（宽高）,浏览器重新计算�
 [CSS 选择器参考手册](http://www.w3school.com.cn/cssref/css_selectors.asp)
 
 
-### 13.那些属性可以出发BFC？
+### 13.BFC是什么？介绍一下，如何触发BFC？
+BFC也就是常说的块格式化上下文，这是一个独立的渲染区域，规定了内部如何布局，并且这个区域的子元素不会影响到外面的元素。其中比较重要的布局规则有内部box垂直放置、计算BFC的高度的时候，浮动元素也参与计算。
+触发BFC的规则有根元素、浮动元素、position为absolute或fixed的元素、display属性为inline-block、table-cell、table-caption、flex、inline-fllex、overflow不为visible的元素。
 
-### 14.CSS3动画如何实现暂停
+参考：
 
+[前端精选文摘：BFC 神奇背后的原理](http://www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
+
+[块格式化上下文](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context)
+
+### 14.CSS3动画如何实现暂停？
+
+### 15.说一说你知道哪些伪类选择器？
