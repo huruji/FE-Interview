@@ -198,7 +198,8 @@ setTimeout表示间隔一段时间之后执行一次调用，而setInterval则�
 
 
 ### 21.如何阻止事件冒泡和默认事件？
-
+标准的DOM对象中可以使用事件对象的stopPropagation()方法来阻止事件冒泡，但在IE8以下中IE的事件对象通过设置事件对象的cancelBubble属性为true来阻止冒泡；
+默认事件的话通过事件对象的preventDefault()方法来阻止，而IE通过设置事件对象的returnValue属性为false来阻止默认事件。
 
 ### 22.addEventListener有哪些参数？
 有三个参数，第一个是事件的类型，第二个是事件的回调函数，第三个是一个表示事件是冒泡阶段还是捕获阶段捕获的布尔值，true表示捕获，false表示冒泡
