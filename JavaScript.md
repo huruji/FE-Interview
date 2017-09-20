@@ -183,10 +183,22 @@ setTimeout表示间隔一段时间之后执行一次调用，而setInterval则�
 [setTimeout() 和 setInterval() 本质区别在哪里？](https://segmentfault.com/q/1010000005989491)
 
 ### 19.同源策略是什么？
+同源策略是指只有具有相同源的页面才能够共享数据，比如cookie，同源是指页面具有相同的协议、域名、端口号，有一项不同就不是同源。
+有同源策略能够保证web网页的安全性。
+
+参考：
+
+[前端必备HTTP技能之同源策略详解](http://www.jianshu.com/p/beb059c43a8b)
+
+[浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
+
+[浏览器的同源策略](https://developer.mozilla.org/zh-CN/docs/Web/Security/Same-origin_policy)
 
 ### 20.ES6之前JavaScript如何实现继承？
 
+
 ### 21.如何阻止事件冒泡和默认事件？
+
 
 ### 22.addEventListener有哪些参数？
 有三个参数，第一个是事件的类型，第二个是事件的回调函数，第三个是一个表示事件是冒泡阶段还是捕获阶段捕获的布尔值，true表示捕获，false表示冒泡
@@ -195,6 +207,7 @@ setTimeout表示间隔一段时间之后执行一次调用，而setInterval则�
 
 
 ### 24.如何实现懒加载？
+
 
 ### 25.函数节流是什么？
 函数节流就是让一个函数无法在很短的时间间隔内连续调用，而是间隔一段时间执行，这在我们为元素绑定一些事件的时候经常会用到，比如我们
