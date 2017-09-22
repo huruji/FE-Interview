@@ -19,3 +19,5 @@ service作为参数使用。实现一个简答的依赖注入需要一个注册�
 [AngularJs依赖注入的研究](http://www.alloyteam.com/2015/09/angularjs-study-of-dependency-injection/)
 
 ### 2.什么是脏检查？
+脏检查是Angularjs的视图更新机制，Angularjs就是通过脏检查来检测数据是否变动，在angular中，只有一些特定的事件才能触发脏值检查
+比如：DOM事件（比如：用户输入点击按钮）、XHR响应事件、Location变更事件、定时器事件等。

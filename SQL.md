@@ -17,3 +17,5 @@ ISAM、MyISAM、HEAP、InnoDB
 [【整理】MySQL引擎](http://www.cnblogs.com/sopc-mc/archive/2011/11/01/2232212.html)
 
 ### 6.数据库索引是什么？
+
+### 7.介绍一下MySQL的存储过程？
