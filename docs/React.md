@@ -19,7 +19,7 @@ React的组件在第一次挂载的时候回首先获得父组件传递的props�
 判定，这个默认是true，当判定不需要更新的话，组件继续运行，需要更新则依次进入ComponentWillUpdate、render、
 ComponentDidUpdate三个生命周期函数，依次代表着组件将要更新、组件在渲染、组件更新完毕。当组件卸载时，会首先
 进入生命周期函数ComponentWillUnmount，之后才进行卸载。如下图：
-![](./image/react1.png)
+![](../image/react1.png)
 
 ### 3.简要介绍一下React中的refs以及它的作用
 ref允许我们访问DOM元素，我们通过在组件中指定ref属性，属性值为一个回调函数，这个回调函数接受一个DOM元素或者react组件
