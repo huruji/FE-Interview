@@ -66,8 +66,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="291">
-                <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <first_editor relative-caret-position="123">
+                <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -340,14 +340,7 @@
       <workItem from="1505309710449" duration="2363000" />
       <workItem from="1505467846589" duration="4000" />
       <workItem from="1505908100993" duration="18213000" />
-      <workItem from="1506524235647" duration="10563000" />
-    </task>
-    <task id="LOCAL-00017" summary="add question of js">
-      <created>1502978502999</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1502978502999</updated>
+      <workItem from="1506524235647" duration="10598000" />
     </task>
     <task id="LOCAL-00018" summary="add question of mobile css">
       <created>1503240202195</created>
@@ -685,11 +678,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506569962676</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="modify readme">
+      <created>1506573205597</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1506573205597</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108216000" />
+    <option name="totallyTimeSpent" value="108251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -724,7 +724,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="增加js问题" />
     <MESSAGE value="增加问题" />
     <MESSAGE value="增加事件代理答案" />
     <MESSAGE value="增加三次握手" />
@@ -749,7 +748,8 @@
     <MESSAGE value="增加文档" />
     <MESSAGE value="增加let和const" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="modify readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1152,8 +1152,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="291">
-            <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <first_editor relative-caret-position="123">
+            <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor />
