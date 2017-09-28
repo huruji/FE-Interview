@@ -249,7 +249,14 @@ substring会当做0来处理，而slice传入负值的规则是-1指最后一个
 ### 33.介绍一下桶排序和基数排序、快速排序
 
 ### 34.请说一下实现jsonp的实现思路？
+jsonp的原理是使用script标签来实现跨域，因为script标签的的src属性是不受同源策略的影响的，因此可以使用其来跨域。一个最简单的jsonp就是创建一个script标签，设置src为相应的url，在url之后添加相应的callback，格式类似于
+url?callback=xxx，服务端根据我们的callback来返回相应的数据，类似于res.send(req.query.callback + '('+ data + ')')，这样就实现了一个最简单的jsonp
 
+参考：
+
+[jsonp的原理与实现](https://segmentfault.com/a/1190000007665361)
+
+[fetch-jsonp源码](https://github.com/camsong/fetch-jsonp/blob/master/src/fetch-jsonp.js)
 ### 35.如何实现一个双向数据绑定？
 
 ### 36.如何实现一个前端模板引擎？
