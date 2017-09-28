@@ -1,4 +1,4 @@
-![logo](../image/logo.jpg)
+![logo](image/logo.jpg)
 
 # 小菜鸟前端面试大作战
 
