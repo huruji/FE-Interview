@@ -254,6 +254,8 @@ url?callback=xxx，服务端根据我们的callback来返回相应的数据，�
 
 参考：
 
+[动手实现一个JSONP]()
+
 [jsonp的原理与实现](https://segmentfault.com/a/1190000007665361)
 
 [fetch-jsonp源码](https://github.com/camsong/fetch-jsonp/blob/master/src/fetch-jsonp.js)
