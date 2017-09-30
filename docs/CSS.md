@@ -80,6 +80,11 @@ DOM的变化影响到了元素的几何属性（宽高）,浏览器重新计算�
 ### 9.说一说你了解的圣杯布局和双飞翼布局？
 
 ### 10.说一说css3的animation
+css3的animation是css3新增的动画属性，这个css3动画的每一帧是通过@keyframes来声明的，keyframes声明了动画的名称，通过from、to或者是百分比来定义
+每一帧动画元素的状态，通过animation-name来引用这个动画，同时css3动画也可以定义动画运行的时长、动画开始时间、动画播放方向、动画循环次数、动画播放的方式，
+这些相关的动画子属性有：animation-name定义动画名、animation-duration定义动画播放的时长、animation-delay定义动画延迟播放的时间、animation-direction定义
+动画的播放方向、animation-iteration-count定义播放次数、animation-fill-mode定义动画播放之后的状态、animation-play-state定义播放状态，如暂停运行等、animation-timing-function
+定义播放的方式，如恒速播放、艰涩播放等。
 
 ### 11.绝对定位和相对定位的区别？
 绝对定位是相对于最近的已经定位的祖先元素，没有则相对于body，绝对定位脱离文档流，而相对定位是相对于元素在文档中的初始位置，并且
@@ -105,6 +110,5 @@ BFC也就是常说的块格式化上下文，这是一个独立的渲染区域�
 ### 14.CSS3动画如何实现暂停？
 
 ### 15.说一说你知道哪些伪类选择器？
-
 
 ### 16.简要介绍一下一种css预处理器？
