@@ -108,6 +108,7 @@ BFC也就是常说的块格式化上下文，这是一个独立的渲染区域�
 [块格式化上下文](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context)
 
 ### 14.CSS3动画如何实现暂停？
+css3动画可以通过设置animation-play-state属性为paused来设置这个动画暂停。
 
 ### 15.说一说你知道哪些伪类选择器？
 

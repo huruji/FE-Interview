@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="71548fbd-3a7a-4e26-90b9-bd42b3ecce35" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/CSS.md" afterPath="$PROJECT_DIR$/docs/CSS.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -82,8 +81,8 @@
         <entry file="file://$PROJECT_DIR$/docs/CSS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="81">
-                <caret line="86" column="20" lean-forward="false" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+              <first_editor relative-caret-position="333">
+                <caret line="110" column="51" lean-forward="false" selection-start-line="110" selection-start-column="51" selection-end-line="110" selection-end-column="51" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -436,14 +435,7 @@
       <workItem from="1505467846589" duration="4000" />
       <workItem from="1505908100993" duration="18213000" />
       <workItem from="1506524235647" duration="18674000" />
-      <workItem from="1506754086585" duration="2640000" />
-    </task>
-    <task id="LOCAL-00024" summary="增加typeof的题目">
-      <created>1504181239135</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1504181239135</updated>
+      <workItem from="1506754086585" duration="2702000" />
     </task>
     <task id="LOCAL-00025" summary="增加类型判断的题目">
       <created>1504183705162</created>
@@ -781,11 +773,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506755122127</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="add css3 animation">
+      <created>1506756785160</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1506756785160</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118967000" />
+    <option name="totallyTimeSpent" value="119029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1250,8 +1249,8 @@
     <entry file="file://$PROJECT_DIR$/docs/CSS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="81">
-            <caret line="86" column="20" lean-forward="false" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+          <first_editor relative-caret-position="333">
+            <caret line="110" column="51" lean-forward="false" selection-start-line="110" selection-start-column="51" selection-end-line="110" selection-end-column="51" />
             <folding />
           </first_editor>
           <second_editor />
