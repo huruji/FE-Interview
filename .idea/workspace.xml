@@ -430,14 +430,7 @@
       <workItem from="1506754086585" duration="5811000" />
       <workItem from="1507536062108" duration="598000" />
       <workItem from="1507560447089" duration="36000" />
-      <workItem from="1507708584833" duration="2168000" />
-    </task>
-    <task id="LOCAL-00028" summary="增加重绘和重排答案">
-      <created>1504201120517</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1504201120517</updated>
+      <workItem from="1507708584833" duration="2175000" />
     </task>
     <task id="LOCAL-00029" summary="增加堆和栈答案">
       <created>1504201666558</created>
@@ -775,11 +768,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507711531322</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="add question">
+      <created>1507711544242</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1507711544242</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124940000" />
+    <option name="totallyTimeSpent" value="124947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1177" extended-state="0" />
