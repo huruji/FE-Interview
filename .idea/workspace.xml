@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="71548fbd-3a7a-4e26-90b9-bd42b3ecce35" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/MobileWeb.md" afterPath="$PROJECT_DIR$/docs/MobileWeb.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -431,14 +430,7 @@
       <workItem from="1506754086585" duration="5811000" />
       <workItem from="1507536062108" duration="598000" />
       <workItem from="1507560447089" duration="36000" />
-      <workItem from="1507708584833" duration="2154000" />
-    </task>
-    <task id="LOCAL-00027" summary="增加js 严格模式">
-      <created>1504187556081</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1504187556081</updated>
+      <workItem from="1507708584833" duration="2168000" />
     </task>
     <task id="LOCAL-00028" summary="增加重绘和重排答案">
       <created>1504201120517</created>
@@ -776,11 +768,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507711510054</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="add question">
+      <created>1507711531322</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1507711531322</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124926000" />
+    <option name="totallyTimeSpent" value="124940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1177" extended-state="0" />
