@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="71548fbd-3a7a-4e26-90b9-bd42b3ecce35" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/JavaScript.md" afterPath="$PROJECT_DIR$/docs/JavaScript.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/MobileWeb.md" afterPath="$PROJECT_DIR$/docs/MobileWeb.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/NetWork.md" afterPath="$PROJECT_DIR$/docs/NetWork.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/WebSecurity.md" afterPath="$PROJECT_DIR$/docs/WebSecurity.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/docs/MobileWeb.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="189">
-                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <first_editor relative-caret-position="336">
+                <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -434,14 +431,7 @@
       <workItem from="1506754086585" duration="5811000" />
       <workItem from="1507536062108" duration="598000" />
       <workItem from="1507560447089" duration="36000" />
-      <workItem from="1507708584833" duration="2121000" />
-    </task>
-    <task id="LOCAL-00026" summary="增加js DOM操作的题目">
-      <created>1504185035652</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1504185035652</updated>
+      <workItem from="1507708584833" duration="2154000" />
     </task>
     <task id="LOCAL-00027" summary="增加js 严格模式">
       <created>1504187556081</created>
@@ -779,11 +769,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506756883072</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="add question">
+      <created>1507711510053</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1507711510054</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124893000" />
+    <option name="totallyTimeSpent" value="124926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1177" extended-state="0" />
@@ -818,7 +815,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="增加get和post" />
     <MESSAGE value="增加css问题" />
     <MESSAGE value="增加js字符串问题" />
     <MESSAGE value="增加addeventListener" />
@@ -843,7 +839,8 @@
     <MESSAGE value="add jsonp" />
     <MESSAGE value="add css3" />
     <MESSAGE value="add css3 animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="add css3 animation" />
+    <MESSAGE value="add question" />
+    <option name="LAST_COMMIT_MESSAGE" value="add question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1202,8 +1199,8 @@
     <entry file="file://$PROJECT_DIR$/docs/MobileWeb.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <first_editor relative-caret-position="336">
+            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
