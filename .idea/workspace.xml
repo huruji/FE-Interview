@@ -4,8 +4,6 @@
     <list default="true" id="71548fbd-3a7a-4e26-90b9-bd42b3ecce35" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/JavaScript.md" afterPath="$PROJECT_DIR$/docs/JavaScript.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/MobileWeb.md" afterPath="$PROJECT_DIR$/docs/MobileWeb.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/SQL.md" afterPath="$PROJECT_DIR$/docs/SQL.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,7 +47,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="3759">
-                <caret line="179" column="45" lean-forward="true" selection-start-line="179" selection-start-column="45" selection-end-line="179" selection-end-column="45" />
+                <caret line="179" column="45" lean-forward="false" selection-start-line="179" selection-start-column="45" selection-end-line="179" selection-end-column="45" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -61,21 +59,21 @@
         <entry file="file://$PROJECT_DIR$/docs/JavaScript.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="224">
-                <caret line="282" column="43" lean-forward="false" selection-start-line="282" selection-start-column="43" selection-end-line="282" selection-end-column="43" />
+              <first_editor relative-caret-position="336">
+                <caret line="169" column="0" lean-forward="true" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
                 <folding>
-                  <marker date="1507725785013" expanded="true" signature="719:821" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="745:819" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="771:815" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="4128:4460" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="4147:4169" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="4203:4303" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="4232:4261" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="4267:4299" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="4337:4425" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="4358:4383" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="4389:4421" ph="{...}" />
-                  <marker date="1507725785013" expanded="true" signature="4430:4458" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="719:821" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="745:819" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="771:815" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="4128:4460" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="4147:4169" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="4203:4303" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="4232:4261" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="4267:4299" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="4337:4425" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="4358:4383" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="4389:4421" ph="{...}" />
+                  <marker date="1507726092552" expanded="true" signature="4430:4458" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -113,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/docs/SQL.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="471">
+              <first_editor relative-caret-position="504">
                 <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -299,7 +297,7 @@
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.standard" value="C:\Users\huruji\AppData\Roaming\npm\node_modules\eslint" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AMD" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -434,14 +432,8 @@
       <workItem from="1507536062108" duration="598000" />
       <workItem from="1507560447089" duration="36000" />
       <workItem from="1507708584833" duration="4395000" />
-      <workItem from="1507722875774" duration="2311000" />
-    </task>
-    <task id="LOCAL-00030" summary="增加进程和线程问题">
-      <created>1504202099037</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1504202099037</updated>
+      <workItem from="1507722875774" duration="3057000" />
+      <workItem from="1507733773029" duration="1368000" />
     </task>
     <task id="LOCAL-00031" summary="增加js问题">
       <created>1504202604536</created>
@@ -779,11 +771,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507711556010</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="add 4399">
+      <created>1507725808578</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1507725808582</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129478000" />
+    <option name="totallyTimeSpent" value="131592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -818,7 +817,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="增加css问题" />
     <MESSAGE value="增加js字符串问题" />
     <MESSAGE value="增加addeventListener" />
     <MESSAGE value="增加csrf" />
@@ -843,7 +841,8 @@
     <MESSAGE value="add css3" />
     <MESSAGE value="add css3 animation" />
     <MESSAGE value="add question" />
-    <option name="LAST_COMMIT_MESSAGE" value="add question" />
+    <MESSAGE value="add 4399" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 4399" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1090,7 +1089,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="147">
             <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1144,7 +1142,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="3759">
-            <caret line="179" column="45" lean-forward="true" selection-start-line="179" selection-start-column="45" selection-end-line="179" selection-end-column="45" />
+            <caret line="179" column="45" lean-forward="false" selection-start-line="179" selection-start-column="45" selection-end-line="179" selection-end-column="45" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1184,7 +1182,7 @@
     <entry file="file://$PROJECT_DIR$/docs/SQL.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="471">
+          <first_editor relative-caret-position="504">
             <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -1195,21 +1193,21 @@
     <entry file="file://$PROJECT_DIR$/docs/JavaScript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="224">
-            <caret line="282" column="43" lean-forward="false" selection-start-line="282" selection-start-column="43" selection-end-line="282" selection-end-column="43" />
+          <first_editor relative-caret-position="336">
+            <caret line="169" column="0" lean-forward="true" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
             <folding>
-              <marker date="1507725785013" expanded="true" signature="719:821" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="745:819" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="771:815" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="4128:4460" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="4147:4169" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="4203:4303" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="4232:4261" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="4267:4299" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="4337:4425" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="4358:4383" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="4389:4421" ph="{...}" />
-              <marker date="1507725785013" expanded="true" signature="4430:4458" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="719:821" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="745:819" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="771:815" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="4128:4460" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="4147:4169" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="4203:4303" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="4232:4261" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="4267:4299" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="4337:4425" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="4358:4383" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="4389:4421" ph="{...}" />
+              <marker date="1507726092552" expanded="true" signature="4430:4458" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
