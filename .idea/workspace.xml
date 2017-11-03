@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71548fbd-3a7a-4e26-90b9-bd42b3ecce35" name="Default" comment="add answers">
+    <list default="true" id="71548fbd-3a7a-4e26-90b9-bd42b3ecce35" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/MobileWeb.md" afterPath="$PROJECT_DIR$/docs/MobileWeb.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/Node.md" afterPath="$PROJECT_DIR$/docs/Node.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/Vue.md" afterPath="$PROJECT_DIR$/docs/Vue.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/navbar.md" afterPath="$PROJECT_DIR$/navbar.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,6 +34,16 @@
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jsonp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsonp.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -71,25 +78,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Vue.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Vue.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/Vue.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="42">
                 <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Other.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/Other.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -123,12 +117,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="navbar.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/navbar.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="63">
-                <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="26" />
+              <first_editor relative-caret-position="315">
+                <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -212,6 +206,7 @@
         <option value="$PROJECT_DIR$/docs/Node.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/Vue.md" />
+        <option value="$PROJECT_DIR$/navbar.md" />
       </list>
     </option>
   </component>
@@ -427,14 +422,7 @@
       <workItem from="1507722875774" duration="3057000" />
       <workItem from="1507733773029" duration="2041000" />
       <workItem from="1509198609796" duration="1257000" />
-      <workItem from="1509720840596" duration="4255000" />
-    </task>
-    <task id="LOCAL-00033" summary="增加问题">
-      <created>1504203838847</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1504203838847</updated>
+      <workItem from="1509720840596" duration="4762000" />
     </task>
     <task id="LOCAL-00034" summary="增加问题">
       <created>1504203982959</created>
@@ -772,11 +760,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509724544993</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="add readme">
+      <created>1509725329095</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1509725329095</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137777000" />
+    <option name="totallyTimeSpent" value="138284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -811,7 +806,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="增加addeventListener" />
     <MESSAGE value="增加csrf" />
     <MESSAGE value="增加XSS" />
     <MESSAGE value="增加DNS劫持" />
@@ -836,7 +830,8 @@
     <MESSAGE value="add question" />
     <MESSAGE value="add 4399" />
     <MESSAGE value="add answers" />
-    <option name="LAST_COMMIT_MESSAGE" value="add answers" />
+    <MESSAGE value="add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1025,7 +1020,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coverpage.md" />
-    <entry file="file://$PROJECT_DIR$/jsonp.js" />
     <entry file="file://$USER_HOME$/Desktop/jsonp.md" />
     <entry file="file://$PROJECT_DIR$/docs/HTML.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -1183,11 +1177,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/navbar.md">
+    <entry file="file://$PROJECT_DIR$/docs/Vue.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="63">
-            <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="26" />
+          <first_editor relative-caret-position="42">
+            <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1195,6 +1189,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1213,11 +1215,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Vue.md">
+    <entry file="file://$PROJECT_DIR$/navbar.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="42">
-            <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <first_editor relative-caret-position="315">
+            <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             <folding />
           </first_editor>
           <second_editor />
