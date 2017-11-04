@@ -6,6 +6,8 @@
 
 这里的答案都是我个人的回答，当然还有一小部分暂时我还没写答案，会陆续更新，不保证完全对，面试也并不是需要完全对，面试官想要的个人的思路。
 
+如果你需要了解面试准备的话，可以参考我之前写的一篇文章。[https://juejin.im/post/59fd75926fb9a0452b4899b6](https://juejin.im/post/59fd75926fb9a0452b4899b6)
+
 ## 目录
 #### [JavaScript部分](docs/JavaScript.md)
 #### [HTML(5)](docs/HTML.md)
