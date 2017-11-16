@@ -27,6 +27,8 @@
 
 2.[16种方法实现水平居中垂直居中](https://juejin.im/post/58f818bbb123db006233ab2a)
 
+3. [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+
 ### 3.如何实现一个自适应的正方形
 利用padding设置为百分比时是相对于父级元素的，因此同时设置width与padding-top(padding-bottom)为同一个百分数，
 并且设置height:0即可实现一个正方形。
@@ -89,6 +91,10 @@ css3的animation是css3新增的动画属性，这个css3动画的每一帧是�
 ### 11.绝对定位和相对定位的区别？
 绝对定位是相对于最近的已经定位的祖先元素，没有则相对于body，绝对定位脱离文档流，而相对定位是相对于元素在文档中的初始位置，并且
 相对定位的元素仍然占据原有的空间。
+
+参考：
+
+[MDN Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 
 ### 12.说一下你了解的CSS选择器？
 
