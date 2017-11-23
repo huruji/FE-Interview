@@ -24,7 +24,7 @@
 #### [其他](docs/Other.md)
 
 ## 参与贡献
-本仓库目前有[huruji](https://github.com/huruji)个人进行维护。如果在面试中遇到过相应的问题，欢迎提Issues和Pull Request，也欢迎修改所有的回答，不过修改回答提交PR时，希望能够附带相应的出处。
+本仓库目前由[huruji](https://github.com/huruji)个人进行维护。如果在面试中遇到过相应的问题，欢迎提Issues和Pull Request，也欢迎修改所有的回答，不过修改回答提交PR时，希望能够附带相应的出处。
 
 关于如何提交PR，可以参考[这篇文章](http://blog.csdn.net/qq_33429968/article/details/62219783)
 
