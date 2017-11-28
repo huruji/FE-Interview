@@ -9,9 +9,11 @@ viewport常常使用在响应式开发以及移动web开发中，viewport顾名�
 
 参考：
 
-[移动前端开发之viewport的深入理解](https://www.cnblogs.com/2050/p/3877280.html)
+> [A tale of two viewports — part one](https://www.quirksmode.org/mobile/viewports.html) [(译)](http://weizhifeng.net/viewports.html)
 
-[在移动浏览器中使用viewport元标签控制布局](https://developer.mozilla.org/zh-CN/docs/Mobile/Viewport_meta_tag)
+> [A tale of two viewports — part two](https://www.quirksmode.org/mobile/viewports2.html) [(译)](http://weizhifeng.net/viewports2.html)
+
+> [Meta viewport](https://www.quirksmode.org/mobile/metaviewport/)
 
 ### 2.简要介绍HTML5的新特性
 首先HTML5为了更好的实践Web语义化，增加了header、footer、nav、aside、article、section等语义化标签。
