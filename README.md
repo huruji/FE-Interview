@@ -8,6 +8,10 @@
 
 如果你需要了解面试准备的话，可以参考我之前写的一篇文章。[https://juejin.im/post/59fd75926fb9a0452b4899b6](https://juejin.im/post/59fd75926fb9a0452b4899b6)
 
+另外，欢迎关注我的微信公众号，我长期分享前端开发方面的知识，另外我目前就职于 **字节跳动**，也可以通过我的微信公众号找到我来内推哟！
+
+![](./image/wechat.jpeg)
+
 ## 目录
 #### [JavaScript部分](docs/JavaScript.md)
 #### [HTML(5)](docs/HTML.md)
